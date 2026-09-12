@@ -11,7 +11,7 @@ int main() { /*se determina el tipo de variable primero y despues se asigna un v
     cout << "diga un numero decimal: ";
     cin>> numero;
 
-    cout << "\el numero ingresado es: "<<numero;
+    cout << "\el numero que ingresaste es: "<<numero;
 
 
 
