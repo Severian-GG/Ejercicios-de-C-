@@ -7,4 +7,7 @@ Tipos de datos básicos.
   - Ejercicio 2.
 Lectura y entrada de datos.
 
+  - Ejercicio 3.
+Ejercicios aritmeticos.
+
 This repository is a record of my beginner training as a C++ developer.
